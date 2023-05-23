@@ -53,6 +53,4 @@ Cihazlarda çalıştırın with Expo Dev-Client
 Detaylı bilgi için https://docs.expo.dev/develop/development-builds/introduction/#what-is-an-expo-dev-client 
   
 ## Ekran Görüntüleri
-![Simulator Screen Shot - iPhone 14 Pro - 2023-04-19 at 11 40 02](https://user-images.githubusercontent.com/18294228/233030779-9fee3bb2-df63-4ff8-aabf-81eb76a12770.png)
-![Simulator Screen Shot - iPhone 14 Pro - 2023-04-19 at 11 41 05](https://user-images.githubusercontent.com/18294228/233030802-13b65f26-8739-4968-bd2c-ad6dcc48f48f.png)
-![Simulator Screen Shot - iPhone 14 Pro - 2023-04-19 at 11 41 16](https://user-images.githubusercontent.com/18294228/233030815-80f36919-156d-45fc-bb8e-d188293d305c.png)
+<img src="https://github.com/burakgokcinarr/radio-track-player/blob/main/app.gif" alt="gif" width="350" height="650">
